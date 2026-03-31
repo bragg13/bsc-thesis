@@ -3,5 +3,5 @@
 
 Structural Analysis of social networks in works in fan-fiction communities
 
-- (bsc-thesis-slides.pdf][slides]
-- (tesi_bsc.pdf)[Bachelor Thesis]
+- [slides](bsc-thesis-slides.pdf)
+- [Bachelor Thesis](tesi_bsc.pdf)
